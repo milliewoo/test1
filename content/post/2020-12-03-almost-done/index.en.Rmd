@@ -1,0 +1,29 @@
+---
+title: "almost done"
+author: "millie woo"
+date: '2020-12-03'
+slug: almost-done
+categories: R Studio
+tags: Deep Learning
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-03T21:37:32+11:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## Header 1
+
+This is some test
+
+## Header 2 - Title of h2
+
+```{r}
+my_data <- mtcars
+plot(mtcars)
+
+```
