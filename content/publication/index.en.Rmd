@@ -1,0 +1,19 @@
+---
+title: ''
+author: millie woo
+date: '2020-12-03'
+slug: publication
+categories:
+  - Demo
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-03T22:21:29+11:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
